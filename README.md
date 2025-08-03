@@ -1,6 +1,8 @@
 # vue-todos
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple Vue ToDo app that saves data on local machine. Made with Vue3 and SCSS.
+
+<img width="916" height="723" alt="image" src="https://github.com/user-attachments/assets/38f642ae-0f1b-4621-82ee-e239bc4e13fe" />
 
 ## Recommended IDE Setup
 
